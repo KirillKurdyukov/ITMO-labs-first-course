@@ -1,0 +1,2 @@
+# ITMO-labs-first-course
+:)
